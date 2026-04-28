@@ -8,7 +8,7 @@ function Stripes() {
       ID: "https://github.com/SParth-23",
     },
     {
-      URL: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png",
+      URL: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/500px-LeetCode_Logo_black_with_text.svg.png",
       ID: "https://leetcode.com/u/parthsinghal23-cs/",
     },
     {
